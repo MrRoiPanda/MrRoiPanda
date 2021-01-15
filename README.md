@@ -11,7 +11,6 @@
 
 ### Language :
 
-**MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 **MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
