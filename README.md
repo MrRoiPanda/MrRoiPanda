@@ -3,10 +3,10 @@
 
 ### Connect with me :
 <p align="center" width="100%">
-  <a href="https://twitter.com/mrpandadrawing"><img align="center" alt="Twitter" width="22px" src="" /></a>
-  <a href="https://www.instagram.com/mrpandart"><img align="center" alt="Instagram" width="22px" src="" /></a>
-  <a href="https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ"><img align="center" alt="Youtube" width="22px" src="" /></a>
-  <a href="https://steamcommunity.com/id/pandanasa/"><img align="center" alt="Steam" width="22px" src="" /></a>
+  <a href="https://twitter.com/mrpandadrawing"><img align="center" alt="Twitter" width="22px" src="icons/twitter.svg" /></a>
+  <a href="https://www.instagram.com/mrpandart"><img align="center" alt="Instagram" width="22px" src="icons/instagram.svg" /></a>
+  <a href="https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ"><img align="center" alt="Youtube" width="22px" src="icons/youtube.svg" /></a>
+  <a href="https://steamcommunity.com/id/pandanasa/"><img align="center" alt="Steam" width="22px" src="icons/steam.svg" /></a>
 </p>
 
 ### Language :
