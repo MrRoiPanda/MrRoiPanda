@@ -46,6 +46,8 @@ I'm a French student 😄, welcome to my github.
 - Playing video game
 - Making sh\*tty programs 
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical)
 <!--
 **MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
