@@ -13,7 +13,6 @@ I'm a French student 😄, welcome to my github.
   <a href="https://steamcommunity.com/id/pandanasa/"><img align="center" alt="Steam" width="52px" src="icons/steam.svg" /></a>
 </p>
 
----
 ### Languages & Tools:
 <p align="center" width="100%">
 <img align="center" alt="Visual Studio Code" width="26px" src="Icons-dev/visualstudio-plain.svg" />
