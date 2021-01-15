@@ -2,7 +2,7 @@
 ## I'm French and student who is repeating a lot of years 😄
 
 ### Connect with me:
-[![Twitter URL](social/013-twitter-1.png)](https://twitter.com/mrpandadrawing)|width=400px]
+[![Twitter URL](social/013-twitter-1.png)](https://twitter.com/mrpandadrawing=250x250)
 ### Languag
 <!--
 **MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
