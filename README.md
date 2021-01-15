@@ -9,6 +9,7 @@
   <a href="https://steamcommunity.com/id/pandanasa/"><img align="center" alt="Steam" width="52px" src="icons/steam.svg" /></a>
 </p>
 
+---
 ### Language :
 
 <!--
