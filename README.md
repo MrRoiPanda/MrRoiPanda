@@ -8,7 +8,8 @@
   <a href="https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ"><img align="center" alt="Youtube" width="22px" src="" /></a>
   <a href="https://steamcommunity.com/id/pandanasa/"><img align="center" alt="Steam" width="22px" src="" /></a>
 </p>
-### Languag
+
+### Language :
 <!--
 **MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
