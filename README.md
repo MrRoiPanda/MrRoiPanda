@@ -20,7 +20,7 @@
 </p>
 - **Languages**
 <p align="center" width="100%">
-<img align="center" alt="C++" width="26px" src="Icons-dev/cpluplus-original.svg" />
+<img align="center" alt="C++" width="26px" src="Icons-dev/cplusplus-original.svg" />
 <img align="center" alt="C#" width="26px" src="Icons-dev/csharp-original.svg" />
 <img align="center" alt="Java" width="26px" src="Icons-dev/java-original.svg" />
 <img align="center" alt="html5" width="26px" src="Icons-dev/html5-original.svg" />
