@@ -43,6 +43,7 @@ I'm a French student 😄, welcome to my github.
 ### Interests :
 
 - Anime all day
+- Play video game
 - Making sh\*tty programs 
 
 <!--
