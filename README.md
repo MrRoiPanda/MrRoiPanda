@@ -10,7 +10,7 @@
 </p>
 
 ---
-### Language :
+### Language & Tools:
 <p align="center" width="100%">
 <img align="center" alt="Visual Studio Code" width="26px" src="Icons-dev/visualstudio-plain.svg" />
 <img align="center" alt="Atom" width="26px" src="Icons-dev/atom-original.svg" />
