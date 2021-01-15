@@ -18,6 +18,7 @@
 <img align="center" alt="Atom" width="26px" src="Icons-dev/atom-original.svg" />
 <img align="center" alt="Codepen" width="26px" src="Icons-dev/codepen-plain.svg" />
 </p>
+
 - **Languages**
 <p align="center" width="100%">
 <img align="center" alt="C++" width="26px" src="Icons-dev/cplusplus-original.svg" />
@@ -29,8 +30,8 @@
 <img align="center" alt="js" width="26px" src="Icons-dev/javascript-original.svg" />
 <img align="center" alt="nodejs" width="26px" src="Icons-dev/nodejs-original.svg" />
 <img align="center" alt="php" width="26px" src="Icons-dev/php-plain.svg" />
-
 </p>
+
 - **Other**
 <p align="center" width="100%">
 <img align="center" alt="apache" width="26px" src="Icons-dev/apache-original.svg" />
