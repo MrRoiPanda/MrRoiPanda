@@ -1,5 +1,9 @@
 # Hello 👋
-## I'm a French student 😄
+
+I'm a French student 😄, welcome to my github.
+
+
+
 
 ### Connect with me :
 <p align="center" width="100%">
@@ -36,6 +40,11 @@
 <img align="center" alt="heroku" width="26px" src="Icons-dev/heroku-original.svg" />
 <img align="center" alt="npm" width="26px" src="Icons-dev/npm-original-wordmark.svg"/>
 </p>
+
+### Interests :
+
+- Anime all day
+- Making sh\*tty programs 
 
 <!--
 **MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
