@@ -1,5 +1,5 @@
 # Hello 👋
-## I'm a French student who is repeating a lot of years 😄
+## I'm a French student 😄
 
 ### Connect with me :
 <p align="center" width="100%">
