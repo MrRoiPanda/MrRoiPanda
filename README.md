@@ -12,6 +12,33 @@
 ---
 ### Language :
 
+- **IDE**
+<p align="center" width="100%">
+<img align="center" alt="Visual Studio Code" width="26px" src="Icons-dev/visualstudio-plain.svg" />
+<img align="center" alt="Atom" width="26px" src="Icons-dev/atom-original.svg" />
+<img align="center" alt="Codepen" width="26px" src="Icons-dev/codepen-plain.svg" />
+</p>
+- **Languages**
+<p align="center" width="100%">
+<img align="center" alt="C++" width="26px" src="Icons-dev/cpluplus-original.svg" />
+<img align="center" alt="C#" width="26px" src="Icons-dev/csharp-original.svg" />
+<img align="center" alt="Java" width="26px" src="Icons-dev/java-original.svg" />
+<img align="center" alt="html5" width="26px" src="Icons-dev/html5-original.svg" />
+<img align="center" alt="css3" width="26px" src="Icons-dev/css3-original.svg" />
+<img align="center" alt="sass" width="26px" src="Icons-dev/sass-original.svg" />
+<img align="center" alt="js" width="26px" src="Icons-dev/javascript-original.svg" />
+<img align="center" alt="nodejs" width="26px" src="Icons-dev/nodejs-original.svg" />
+<img align="center" alt="php" width="26px" src="Icons-dev/php-plain.svg" />
+
+</p>
+- **Other**
+<p align="center" width="100%">
+<img align="center" alt="apache" width="26px" src="Icons-dev/apache-original.svg" />
+<img align="center" alt="mysql" width="26px" src="Icons-dev/mysql-original.svg" />
+<img align="center" alt="heroku" width="26px" src="Icons-dev/heroku-original.svg" />
+<img align="center" alt="npm" width="26px" src="Icons-dev/npm-original-wordmark.svg"/>
+</p>
+
 <!--
 **MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
