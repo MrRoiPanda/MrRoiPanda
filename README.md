@@ -4,39 +4,29 @@ I'm a French student 😄, welcome to my github.
 
 
 ### Connect with me :
-<p align="center" width="100%">
-  <a href="https://twitter.com/mrpandadrawing"><img align="center" alt="Twitter" width="52px" src="icons/twitter.svg" /></a>
-  <a href="https://www.instagram.com/mrpandart"><img align="center" alt="Instagram" width="52px" src="icons/instagram.svg" /></a>
-  <a href="https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ"><img align="center" alt="Youtube" width="52px" src="icons/youtube.svg" /></a>
-  <a href="https://steamcommunity.com/id/pandanasa/"><img align="center" alt="Steam" width="52px" src="icons/steam.svg" /></a>
-</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrpandadrawing)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrpandart)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pandanasa/)
+
+
 
 ### Languages & Tools:
-<p align="center" width="100%">
-<img align="center" alt="Visual Studio Code" width="26px" src="Icons-dev/visualstudio-plain.svg" />
-<img align="center" alt="Atom" width="26px" src="Icons-dev/atom-original.svg" />
-<img align="center" alt="Codepen" width="26px" src="Icons-dev/codepen-plain.svg" />
-</p>
 
-<p align="center" width="100%">
-<img align="center" alt="C++" width="26px" src="Icons-dev/cplusplus-original.svg" />
-<img align="center" alt="C#" width="26px" src="Icons-dev/csharp-original.svg" />
-<img align="center" alt="Phyton" width="26px" src="Icons-dev/python-original.svg" />
-<img align="center" alt="Java" width="26px" src="Icons-dev/java-original.svg" />
-<img align="center" alt="html5" width="26px" src="Icons-dev/html5-original.svg" />
-<img align="center" alt="css3" width="26px" src="Icons-dev/css3-original.svg" />
-<img align="center" alt="sass" width="26px" src="Icons-dev/sass-original.svg" />
-<img align="center" alt="js" width="26px" src="Icons-dev/javascript-original.svg" />
-<img align="center" alt="nodejs" width="26px" src="Icons-dev/nodejs-original.svg" />
-<img align="center" alt="php" width="26px" src="Icons-dev/php-plain.svg" />
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-<p align="center" width="100%">
-<img align="center" alt="apache" width="26px" src="Icons-dev/apache-original.svg" />
-<img align="center" alt="mysql" width="26px" src="Icons-dev/mysql-original.svg" />
-<img align="center" alt="heroku" width="26px" src="Icons-dev/heroku-original.svg" />
-<img align="center" alt="npm" width="26px" src="Icons-dev/npm-original-wordmark.svg"/>
-</p>
+#### Design
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
 
 ### Interests :
 
@@ -46,6 +36,7 @@ I'm a French student 😄, welcome to my github.
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical)
+
 <!--
 **MrRoiPanda/MrRoiPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
