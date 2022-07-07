@@ -1,4 +1,6 @@
-# Hello 👋
+<h1 align="center">
+  Hello 👋
+</h1>
 
 ## About me
 
@@ -11,7 +13,7 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pandanasa/)
 
-### 🛠️ Languages & Tools:
+## 🛠️ Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +30,7 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-### ✨ My essentials
+<h2>✨ &nbsp;My essentials</h2>
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)
@@ -37,11 +39,5 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 ![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-### Interests :
-
-- Anime all day
-- Playing video game
-- Making sh\*tty programs 
-
-
+### 🌐 Github Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical)
