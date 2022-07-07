@@ -6,14 +6,14 @@
 
 I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Every day I have a new idea but my Github is just 1% of all my creativity.I suck at programming but at least it works 🤷‍♂️
 
-## 🌐 Connect with me :
+<h2>🌐 &nbsp;Connect with me</h2>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrpandadrawing)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrpandart)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pandanasa/)
 
-## 🛠️ Languages & Tools:
+<h2>🛠️ &nbsp;Languages & Tools</h2>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🖊️ Design
+<h2>🖊️ &nbsp;Design</h2>
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
