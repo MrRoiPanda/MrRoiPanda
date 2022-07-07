@@ -2,7 +2,7 @@
   Hello 👋
 </h1>
 
-## About me
+<h2>🧔 &nbsp;About me</h2>
 
 I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Every day I have a new idea but my Github is just 1% of all my creativity.I suck at programming but at least it works 🤷‍♂️
 
