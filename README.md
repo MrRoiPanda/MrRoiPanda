@@ -40,4 +40,4 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 🌐 Github Info
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical&hide_border=true)
