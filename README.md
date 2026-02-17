@@ -38,9 +38,3 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-### 🌐 Github Info
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda)]
-
-
