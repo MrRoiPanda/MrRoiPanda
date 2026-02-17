@@ -9,7 +9,7 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 <h2>🌐 &nbsp;Connect with me</h2>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrpandadrawing)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrpandart)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artbynathanarial)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxOmo6zQe1i5QqLAg-fF9DQ)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pandanasa/)
 
@@ -41,3 +41,4 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 
 ### 🌐 Github Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical&hide_border=true)
+
