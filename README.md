@@ -41,4 +41,6 @@ I'm a french student at <b>Pivot</b> art school. I have HND in electrinic ! Ever
 
 ### 🌐 Github Info
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda&show_icons=true&theme=radical&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRoiPanda)]
+
 
